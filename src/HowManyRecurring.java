@@ -25,5 +25,6 @@ public class HowManyRecurring {
     public static void main(String[] args){
         int[] myarray={2,4,3,1,3,2,5};
         System.out.println(howManyRecurring(myarray));
+
     }
 }
