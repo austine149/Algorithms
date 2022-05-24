@@ -1,3 +1,5 @@
+package com.austine.algos;
+
 public class TwoD_Array_Hackerank {
     /**
      * written by: austine wamalwa

@@ -1,3 +1,5 @@
+package com.austine.algos;
+
 /**
  * programmer: austine wamalwa
  * email: austinwamalwa18@gmail.com

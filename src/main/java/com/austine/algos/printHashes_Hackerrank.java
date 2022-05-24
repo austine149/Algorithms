@@ -1,3 +1,5 @@
+package com.austine.algos;
+
 /**
  * written by: austine wamalwa
  * email: austinewamalwa18@gmail.com

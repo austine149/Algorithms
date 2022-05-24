@@ -1,3 +1,5 @@
+package com.austine.algos;
+
 public class DivisibleSumPairs_Hackerrank {
 
 
