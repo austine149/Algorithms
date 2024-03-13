@@ -1,4 +1,4 @@
-package com.api.openBank.algos;
+package com.austine.algos;
 
 public class RepeatedCharacter {
     private static String findMaxChar(String str) {

@@ -1,4 +1,4 @@
-package com.api.openBank.algos;
+package com.austine.algos;
 
 public class MicrosoftOne {
     public static int solution(int A, int B) {

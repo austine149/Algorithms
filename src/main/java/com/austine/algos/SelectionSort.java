@@ -1,4 +1,4 @@
-package com.api.openBank.algos;
+package com.austine.algos;
 
 import java.util.Arrays;
 import java.util.Random;

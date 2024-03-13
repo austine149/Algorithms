@@ -1,4 +1,4 @@
-package com.api.openBank.algos;
+package com.austine.algos;
 
 class Node{
     int data;

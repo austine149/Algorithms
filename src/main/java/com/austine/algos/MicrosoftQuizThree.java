@@ -1,6 +1,4 @@
-package com.api.openBank.algos;
-
-import java.util.Arrays;
+package com.austine.algos;
 
 public class MicrosoftQuizThree {
     /**

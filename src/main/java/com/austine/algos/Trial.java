@@ -1,4 +1,4 @@
-package com.api.openBank.algos;
+package com.austine.algos;
 class Parent {
     int value = 1000;
 

@@ -1,4 +1,4 @@
-package com.api.openBank.algos;
+package com.austine.algos;
 
 public class BinarySearch {
     private static int binarySearch(int[] arr, int numberToSearch) {

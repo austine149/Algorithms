@@ -1,4 +1,4 @@
-package com.api.openBank.algos;
+package com.austine.algos;
 
 import java.util.HashMap;
 import java.util.Map;

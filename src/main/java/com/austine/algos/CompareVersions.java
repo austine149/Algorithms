@@ -1,4 +1,4 @@
-package com.api.openBank.algos;
+package com.austine.algos;
 
 public class CompareVersions {
     public static int compareVersion(String version1, String version2) {

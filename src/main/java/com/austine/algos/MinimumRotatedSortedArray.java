@@ -1,7 +1,4 @@
-package com.api.openBank.algos;
-
-import java.util.Arrays;
-import java.util.Collections;
+package com.austine.algos;
 
 public class MinimumRotatedSortedArray {
     /**

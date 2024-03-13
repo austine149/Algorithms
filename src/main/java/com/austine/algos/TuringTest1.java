@@ -1,4 +1,4 @@
-package com.api.openBank.algos;
+package com.austine.algos;
 
 public class TuringTest1 {
     /**
@@ -37,5 +37,7 @@ public class TuringTest1 {
     }
     public static void main(String[] args) {
         System.out.println(customRemoveConsecutive("tuuuuuriiiiiing"));
+//        int result = -5 % 3;
+//        System.out.println(result);
     }
 }

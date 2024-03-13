@@ -1,4 +1,4 @@
-package com.api.openBank.algos;
+package com.austine.algos;
 
 /**
  * You are given two arrays A and B consisting of N integers each.

@@ -1,5 +1,4 @@
-package com.api.openBank.algos;
-
+package com.austine.algos;
 
 public class CodilityDemo {
         public static int solution(int[] A) {

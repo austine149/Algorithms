@@ -1,4 +1,4 @@
-package com.api.openBank.algos;
+package com.austine.algos;
 
 public class Mystery {
     public static int mystery(int x, int y) {

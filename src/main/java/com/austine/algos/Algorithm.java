@@ -1,4 +1,4 @@
-package com.api.openBank.algos;
+package com.austine.algos;
 
 public class Algorithm {
     static int beautifulDays(int i, int j, int k) {
